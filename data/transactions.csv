@@ -1,0 +1,6 @@
+transactionId,userId,merchant,timestamp,amount,category
+T001,U001,Amazon,2023-08-01T10:00:00Z,150.50,Shopping
+T002,U001,Walmart,2023-08-01T12:00:00Z,200.00,Grocery
+T003,U002,Apple,2023-08-02T09:30:00Z,999.99,Electronics
+T004,U003,Amazon,2023-08-03T14:45:00Z,75.25,Shopping
+T005,U001,Netflix,2023-08-04T16:15:00Z,12.99,Entertainment
